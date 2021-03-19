@@ -1,0 +1,162 @@
+{
+"AWP":[ 
+  {
+  "number": 1,
+  "skinname": "Dragone Lore",
+  "url": "https://elementshop.ru/upload/resize_cache/iblock/628/750_450_1/62895a7b6005bc185858f839a072d80d.jpg",
+  "skinprice": 100 
+},
+ {
+  "number": 2,
+  "skinname": "Woldwide",
+  "url": "https://images11.esquire.ru/upload/img_cache/c38/c38e09c9139891be9b2289fc11e9d195_ce_640x399x0x5_cropped_960x600.jpg",
+  "skinprice": 150
+},
+
+{
+  "number": 3,
+  "skinname": "Neo-nior",
+  "url": "https://elementshop.ru/upload/medialibrary/b2b/b2b0eefcf5737f7f79728e13a4a3194e.jpg",
+  "skinprice": 254
+},
+{
+  "number":  4,
+  "skinname":"Hyper-Beast",
+  "url": "https://www.slamdunk.su/thumbs/stories/5e8ee1a9bac7cnike-marks-lebron-jamess-most-valuable-player-title-with-lebron-x-mvp-shoe-1.jpg?w=1000&h=600&iar=1",
+  "skinprice": 100  
+},
+{
+  "number": 5,
+  "skinname": "Man-o-war",
+  "url": "https://posta-magazine.ru/wp-content/uploads/2020/01/l_01_popular_sneakers_posta-magazine-1.jpg",
+  "skinprice": 500 
+},
+{
+  "number": 6,
+  "skinname": "Ligth",
+  "url": "https://mcmag.ru/wp-content/uploads/2019/11/samye-dorogie-krossovki-v-mire-01-molodezhnyj-czentr-mcmag.ru_.jpeg",
+  "skinprice": 123  
+},
+{
+  "number":  7,
+  "skinname": "Azimov",
+  "url": "https://modnaya.org/uploads/posts/2019-01/1547719785_glavna.jpg",
+  "skinprice": 321  
+},
+{
+  "number":  8,
+  "skinname": "Strike",
+  "url": "https://sun9-47.userapi.com/impg/c854524/v854524247/1e3214/t8fwYq_lfVw.jpg?size=807x539&quality=96&sign=57d73091c2989f8ecf0b095b00ca4de1&type=album",
+  "skinprice": 145  
+},
+{
+  "number": 9,
+  "skinname": "Gungnir",
+  "url": "https://bugaga.ru/uploads/posts/2014-07/1404889028_krossovki.jpg",
+  "skinprice": 456  
+},
+{
+  "number": 10,
+  "skinname": "Gradient",
+  "url": "https://avatars.mds.yandex.net/get-zen_doc/1860621/pub_5eb546dba4246925cfa394e8_5eb7bfe591b5645304615086/scale_1200",
+  "skinprice": 120 
+}]
+}
+
+{ 
+"AK-47":[ 
+  {
+  "number": 1,
+  "skinname": "Potok info",
+  "url": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposr-kLAtl7PDdTjlH7duJhJKCmePnJ6nUl2Zu5Mx2gv3--Y3nj1H6qUdqazz2IoCVdVJvYlGGqFPtyea6gZ-_uJjPy3tj7HQnsS3cmBHkiQYMMLIjaxhhAw/310fx238f",
+  "skinprice": 7845  
+},
+ {
+  "number": 2,
+  "skinname": "pixel city",
+  "url": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposr-kLAtl7PTbTjlH7du6kb-KkPDmNqjCmXlu5Mx2gv2PoN3zjlbs_BVsYDimJNKWIQI4ZgzU_lC8l-28h5K6vJvOznZr7yYjsWGdwULr5DlSTQ",
+  "price": 3652
+},
+{
+  "number": 3,
+  "skinname": "Oxid fire",
+  "url": "https://totalcsgo.com/image/skins/desert-eagle-corinthian-field-tested.png",
+  "price": 100
+},
+{
+  "number":  4,
+  "skinname":"Blue faner",
+  "url": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposr-kLAtl7PDdTjlH7du6kb-Zkuf4OrjQqWZU7Mxkh9bN9J7yjRq3rxJla2r7J9fGdA84MFDXqVPvwufnjZHp7piYyHVmsikj5SnczR3ln1gSOUUj-CS5/200fx200f",
+  "price": 500  
+},
+{
+  "number": 5,
+  "skinname": "derective",
+  "url": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhjxszFJTwW09izh4-HluPxDKjBl2hU18l4jeHVu93zi1aw_hZtYW2icYHGdwJtN1nSr1foxui8gZW96ZvPznMyvSMq4XrD30vgc83x0v4/310fx238f",
+  "price": 370 
+},
+{
+  "number": 6,
+  "skinname": "fire",
+  "url": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhjxszFJTwW0924l4WYg-X1P4Tck29Y_cg_jLrEo4qtjgeyrkNrZ2qlI4aTIA5rMFzW8wW7yO3qgsDo78vJwHM17j5iuyiP9XXUyw",
+  "price": 1453  
+},
+{
+  "number":  7,
+  "skinname": "pilot",
+  "url": "https://rugamenews.ru/wp-content/uploads/2020/03/m4a4howloriginalandnewdesign.png",
+  "price": 178  
+},
+{
+  "number":  8,
+  "skinname": "esmirald",
+  "url": "https://gamehag.com/img/uploaded/g7Km6La5lSBz3UVp8MiKBaXqc2G9uH.png",
+  "price": 1985  
+},
+{
+  "number": 9,
+  "skinname": "assimov",
+  "url": "https://s-wiki.cs.money/wiki_wsor9uC_large_preview.png",
+  "price": 1365  
+},
+{
+  "number": 10,
+  "skinname": "dragon",
+  "url": "https://gamehag.com/img/uploaded/uX8sQwNk4yO6TvTCKcm2u4eZnHtUeE.png",
+  "price": 1789 
+}]
+}
+
+
+[
+  {
+    "user": "Rakhat",
+    "email": "rakhat@gmail.com",
+    "password": "Rak123",
+    
+  },
+  {
+    "user": "Madi",
+    "email": "madi9999gmail.com",
+    "password": "Wws667",
+    
+  },
+  {
+    "user": "Elzhas",
+    "email": "Elduha@gmail.com",
+    "password": "Elzhas2003",
+    
+  },
+  {
+    "user": "Saksh",
+    "email": "saksh@mail.ru",
+    "password": "sakSh2002",
+    
+  },
+  {
+    "user": "Sula",
+    "email": "sulabek@gmail.com",
+    "password": "Sultan2003",
+    
+  }
+]
