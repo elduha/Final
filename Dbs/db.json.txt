@@ -1,0 +1,64 @@
+{
+"AWP":[ 
+  {
+  "number": 1,
+  "skinname": "Dragone Lore",
+  "url": "https://elementshop.ru/upload/resize_cache/iblock/628/750_450_1/62895a7b6005bc185858f839a072d80d.jpg",
+  "skinprice": 100 
+},
+ {
+  "number": 2,
+  "skinname": "Woldwide",
+  "url": "https://images11.esquire.ru/upload/img_cache/c38/c38e09c9139891be9b2289fc11e9d195_ce_640x399x0x5_cropped_960x600.jpg",
+  "skinprice": 150
+},
+
+{
+  "number": 3,
+  "skinname": "Neo-nior",
+  "url": "https://elementshop.ru/upload/medialibrary/b2b/b2b0eefcf5737f7f79728e13a4a3194e.jpg",
+  "skinprice": 254
+},
+{
+  "number":  4,
+  "skinname":"Hyper-Beast",
+  "url": "https://www.slamdunk.su/thumbs/stories/5e8ee1a9bac7cnike-marks-lebron-jamess-most-valuable-player-title-with-lebron-x-mvp-shoe-1.jpg?w=1000&h=600&iar=1",
+  "skinprice": 100  
+},
+{
+  "number": 5,
+  "skinname": "Man-o-war",
+  "url": "https://posta-magazine.ru/wp-content/uploads/2020/01/l_01_popular_sneakers_posta-magazine-1.jpg",
+  "skinprice": 500 
+},
+{
+  "number": 6,
+  "skinname": "Ligth",
+  "url": "https://mcmag.ru/wp-content/uploads/2019/11/samye-dorogie-krossovki-v-mire-01-molodezhnyj-czentr-mcmag.ru_.jpeg",
+  "skinprice": 123  
+},
+{
+  "number":  7,
+  "skinname": "Azimov",
+  "url": "https://modnaya.org/uploads/posts/2019-01/1547719785_glavna.jpg",
+  "skinprice": 321  
+},
+{
+  "number":  8,
+  "skinname": "Strike",
+  "url": "https://sun9-47.userapi.com/impg/c854524/v854524247/1e3214/t8fwYq_lfVw.jpg?size=807x539&quality=96&sign=57d73091c2989f8ecf0b095b00ca4de1&type=album",
+  "skinprice": 145  
+},
+{
+  "number": 9,
+  "skinname": "Gungnir",
+  "url": "https://bugaga.ru/uploads/posts/2014-07/1404889028_krossovki.jpg",
+  "skinprice": 456  
+},
+{
+  "number": 10,
+  "skinname": "Gradient",
+  "url": "https://avatars.mds.yandex.net/get-zen_doc/1860621/pub_5eb546dba4246925cfa394e8_5eb7bfe591b5645304615086/scale_1200",
+  "skinprice": 120 
+}]
+}
