@@ -1,0 +1,122 @@
+﻿@import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
+
+#body-1 {
+    font-family: 'Open Sans', sans-serif;
+    background-image: url(reg.gif);
+    background-size:1520px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    margin: 0;
+
+}
+
+#container {
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.3);
+    width: 400px;
+}
+
+form {
+    max-width: 400px;
+    margin: 10px auto;
+    padding: 16px;
+}
+
+    form h1 {
+        padding: 5px 0;
+        font-size: 140%;
+        font-weight: 300;
+        text-align: center;
+        color: #111;
+        margin: -16px -16px 16px -16px;
+    }
+
+    form input[type="text"] {
+        outline: none;
+        box-sizing: border-box;
+        width: 100%;
+        background: #fff;
+        margin-bottom: 2%;
+        border: 1px solid #ccc;
+        padding: 3%;
+        color: #555;
+    }
+
+        form input[type="text"]:focus {
+            box-shadow: 0 0 5px #f0db4f;
+            padding: 3%;
+            border: 1px solid #f0db4f;
+        }
+
+    form input[type="submit"]{
+        box-sizing: border-box;
+        width: 100%;
+        padding: 3%;
+        background: #007bff;
+        border-bottom: 2px solid #007bff;
+        border-top-style: none;
+        border-right-style: none;
+        border-left-style: none;
+        color: #fff;
+    }
+
+        form input[type="submit"]:hover {
+            background: #0069d9;
+            cursor: pointer;
+        }
+
+    form input.success {
+        border-color: #c3e6cb
+    }
+
+    form input.error {
+        border-color: #e74c3c
+    }
+
+    form small {
+        color: #e74c3c;
+        margin-bottom: 2%;
+        visibility: visible;
+    }
+
+.styled-table {
+    border-collapse: collapse;
+    margin: 25px 0;
+    font-size: 0.9em;
+    font-family: sans-serif;
+    min-width: 400px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+    margin-left:400px;
+    width:700px
+}
+
+    .styled-table thead tr {
+        background-color: #009879;
+        color: #ffffff;
+        text-align: left;
+    }
+
+    .styled-table th,
+    .styled-table td {
+        padding: 12px 15px;
+    }
+
+    .styled-table tbody tr {
+        border-bottom: 1px solid #dddddd;
+    }
+
+        .styled-table tbody tr:nth-of-type(even) {
+            background-color: #f3f3f3;
+        }
+
+        .styled-table tbody tr:last-of-type {
+            border-bottom: 2px solid #009879;
+        }
+
+        .styled-table tbody tr.active-row {
+            font-weight: bold;
+            color: #009879;
+        }

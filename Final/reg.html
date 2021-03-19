@@ -1,0 +1,41 @@
+﻿<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Registration Page!</title>
+    <link rel="stylesheet" href="main.css">
+    <script src="https://code.jquery.com/jquery-3.6.0.js" integrity="sha256-H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk=" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" />
+    <script src="wow.min.js"></script>
+    <script>
+        new WOW().init();
+    </script>
+</head>
+
+<body id="body-1">
+    <div id="modaldiv" style="transition:1s; border:1px black solid;background-color:yellow; position:absolute; z-index:0; opacity:0; visibility: hidden; top:30px; width:500px; left:500px; height:500px">
+        <center>
+            <h1 style="font-weight:bolder; margin-top:100px">Your data in DB</h1>
+        </center>
+        <button onclick="location.href="login.html" style="background-color: green; width:95%; margin:10px; height:30px; border-radius:10px; margin-top:200px;color:white;">
+            <a href="login.html">Login Page</a>
+        </button>
+    </div>
+    <div class="dd2 wow animate__animated animate__jackInTheBox" id="container" style="z-index:1"> 
+        <form action="home.html" method="post" id="signup">
+            <h1>Sign Up</h1>
+            <small></small>
+            <input id="101" type="text" placeholder="Name">
+            <small></small>
+            <input id="102" type="text" placeholder="Email">
+            <small></small>
+            <input id="103" type="text" placeholder="Password">
+            <small></small>
+            <input id="103" type="text" placeholder="ID">
+            <input type="submit" onclick="appear()" value="Submit">
+        </form>
+    </div>
+    <script src="reg.js"></script>
+</body>
+
+</html>
